@@ -1,6 +1,6 @@
 # first day Python Training
 
-Welcome to the Python Training course! This repository contains all the materials and resources for the first day of the training. 
+ This repository contains an introduction to Python training, the first training day. 
 
 
 #### Software Descriptions
